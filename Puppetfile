@@ -7,4 +7,4 @@ mod "puppetlabs/concat"
 
 mod "simple",
   :git => 'https://github.com/gjngeldenhuis/skyscape-simple.git',
-  :ref => '5bc3e5d'
+  :ref => '01da0d5'
