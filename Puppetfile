@@ -3,6 +3,6 @@ forge "https://forge.puppetlabs.com"
 mod "saz/limits", '2.3.0'
 mod "puppetlabs/apache"
 
-mod "vcenter",
+mod "simple",
   :git => 'https://github.com/gjngeldenhuis/skyscape-simple.git',
   :ref => 'master'
